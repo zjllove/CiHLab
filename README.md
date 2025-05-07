@@ -4,7 +4,6 @@ This repository contains a screenshot of the response from Google Gemini's Deep 
 
 > Why is the COMB macro in the COMB-MCM paper better than general Compute-in-Memory macros?
 
-The answer is related to the research conducted by CiHlab and explores the comparison between COMB macros and traditional Compute-in-Memory (CIM) macros.
 
 ![Gemini Screenshot](gemini.png)
 
